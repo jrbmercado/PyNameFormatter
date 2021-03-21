@@ -1,4 +1,11 @@
 # PyNameFormatter
-## Basic Program to Format Names and Alphanumeric Numbers
-Created to as a tool for myself to format Names and Alphanumeric numbers faster. 
-No plans to update further.
+Basic Program to format names and alphanumeric numbers easily.
+
+## Installation Instructions
+1. Download and Run NameFormatter.exe
+
+## Purpose
+1. Learn string handling through Tkinter buttons and entry fields
+
+## Tools Used
+1. Tkinter
