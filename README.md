@@ -1,5 +1,5 @@
 # PyNameFormatter
-Basic Program to format names and alphanumeric numbers easily.
+Basic program to format names and alphanumeric numbers easily.
 
 ## Installation Instructions
 1. Download and Run NameFormatter.exe
